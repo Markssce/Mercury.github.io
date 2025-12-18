@@ -12,9 +12,9 @@ redirect_from:
 Education
 ======
 
-* M.S. in Tongji University, 2026 (Surveying Engineer) **U1S Laboratory**
-permalink: https://celiang.tongji.edu.cn/info/1300/2387.htm
-* B.S. in Tongji University, 2022
+* M.T. in Tongji University, 2026 (Surveying Engineer (Disaster Monitoring))
+
+* B.S. & B.T. in Tongji University, 2022 (Applied Physics & Surveying Engineer)
 
 Work experience
 ======
