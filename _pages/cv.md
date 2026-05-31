@@ -14,7 +14,7 @@ Education
 
 * M.T. in Tongji University, 2026 (Surveying Engineer (Disaster Monitoring))
 
-* B.S. & B.T. in Tongji University, 2022 (Applied Physics & Surveying Engineer)
+* B.S. & B.T. in Tongji University, 2022 (Applied Physics & Surveying Engineer)-Outstanding Graduate of Tongji University
 
 Work experience
 ======
