@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 
-* M.T. in Tongji University, 2026 (Surveying Engineer (Disaster Monitoring))
+* M.T. in Tongji University, 2026 (Surveying Engineer (Software Defined Radio Radar))
 
 * B.S. & B.T. in Tongji University, 2022 (Applied Physics & Surveying Engineer)-Outstanding Graduate of Tongji University
 
